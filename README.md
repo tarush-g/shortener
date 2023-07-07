@@ -19,6 +19,7 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
+Make sure to include a .env file with the Django [secret key](https://docs.djangoproject.com/en/4.2/topics/signing/#protecting-secret-key-and-secret-key-fallbacks) as an environment variable.
 
 
 
