@@ -1,5 +1,5 @@
 # Shortener
-A very simple url shortener written in Python using Django. Generates an 8 letter code to shorten a given url, which redirects to the actual link when searched.
+A very simple url shortener written in Python using Django. Similar to a service like bit.ly or tinyurl, given a url, the site returns a smaller link in the shortener's domain, which redirects to the given url when searched. 
 
 # Usage
 ## Clone repository
